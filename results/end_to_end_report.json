@@ -1,0 +1,911 @@
+{
+  "n": 150,
+  "detection_rate": 1.0,
+  "perfect_recognition_rate": 1.0,
+  "cell_accuracy": 1.0,
+  "filled_digit_accuracy": 1.0,
+  "end_to_end_solve_rate": 1.0,
+  "throughput_fps": 19.890491039478988,
+  "per_frame": [
+    {
+      "seed": 20000,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20001,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20002,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20003,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20004,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20005,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20006,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20007,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20008,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20009,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20010,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20011,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20012,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20013,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20014,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20015,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20016,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20017,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20018,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20019,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20020,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20021,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20022,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20023,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20024,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20025,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20026,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20027,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20028,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20029,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20030,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20031,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20032,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20033,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20034,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20035,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20036,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20037,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20038,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20039,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20040,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20041,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20042,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20043,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20044,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20045,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20046,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20047,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20048,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20049,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20050,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20051,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20052,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20053,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20054,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20055,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20056,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20057,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20058,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20059,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20060,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20061,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20062,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20063,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20064,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20065,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20066,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20067,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20068,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20069,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20070,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20071,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20072,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20073,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20074,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20075,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20076,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20077,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20078,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20079,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20080,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20081,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20082,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20083,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20084,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20085,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20086,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20087,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20088,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20089,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20090,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20091,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20092,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20093,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20094,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20095,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20096,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20097,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20098,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20099,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20100,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20101,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20102,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20103,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20104,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20105,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20106,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20107,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20108,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20109,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20110,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20111,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20112,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20113,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20114,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20115,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20116,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20117,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20118,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20119,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20120,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20121,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20122,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20123,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20124,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20125,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20126,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20127,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20128,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20129,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20130,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20131,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20132,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20133,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20134,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20135,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20136,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20137,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20138,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20139,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20140,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20141,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20142,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20143,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20144,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20145,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20146,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20147,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20148,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    },
+    {
+      "seed": 20149,
+      "detected": true,
+      "recognized_perfect": true,
+      "pipeline_success": true
+    }
+  ]
+}
